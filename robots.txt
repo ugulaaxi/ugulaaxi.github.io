@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ugulaaxi.github.io/aDA/sitemap_index.txt
+Sitemap: https://ugulaaxi.github.io/eBm/sitemap_index.txt
+Sitemap: https://ugulaaxi.github.io/sjy/sitemap_index.txt
+Sitemap: https://ugulaaxi.github.io/xNH/sitemap_index.txt
